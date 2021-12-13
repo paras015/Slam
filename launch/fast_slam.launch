@@ -1,0 +1,5 @@
+<launch>
+    <node name="fast_slam" pkg="FastSLAM" type="main.py" output="screen">
+        <!-- <rosparam command="load" file="$(find FastSLAM)/config/slam.yaml" /> -->
+    </node>
+</launch>
