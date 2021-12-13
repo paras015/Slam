@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/paras/TurtleBot/devel/include/**",
+        "/home/paras/ROS-System/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/paras/ROS-System/src/fssim_interface/include/**",
+        "/home/paras/TurtleBot/src/robot_localization/include/**",
+        "/home/paras/TurtleBot/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/paras/TurtleBot/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/paras/TurtleBot/src/turtlebot3/turtlebot3_slam/include/**",
+        "/home/paras/ROS-System/src/2_estimation/velocity_estimator/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
